@@ -19,6 +19,8 @@
 
 -->
 
+Edited on branch c8y-branch-2.7.0
+
 ![logo](site2/website/static/img/pulsar.svg)
 
 Pulsar is a distributed pub-sub messaging platform with a very
